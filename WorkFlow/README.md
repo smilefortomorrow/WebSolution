@@ -12,3 +12,5 @@ This project is using some functions as follow:<br />
 </UL>
 
 <h3>Here, screen shots</h3>
+(image/01.png)<br>
+(image/02.png)
