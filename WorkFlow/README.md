@@ -11,5 +11,6 @@ This project is using some functions as follow:<br />
   <li>Export Data such as Invoice</li>
 </UL>
 
-<h3>Here, screen shots</h3>
-![image:01](https://github.com/smilefortomorrow/WebSolution/blob/ddceea2e243361a65c7e64c75b01291a7802559d/WorkFlow/image/01.png)
+<img src="https://github.com/smilefortomorrow/WebSolution/blob/ddceea2e243361a65c7e64c75b01291a7802559d/WorkFlow/image/01.png" /> <br/>
+<img src="https://github.com/smilefortomorrow/WebSolution/blob/ddceea2e243361a65c7e64c75b01291a7802559d/WorkFlow/image/02.png" /> <br/>
+
